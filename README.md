@@ -1,6 +1,6 @@
 # GPT Store Plus
 
-GPT Store Plus is aim to provide everything you need to find greate GPTS, build and manage GPTs, promoting GPTs and engage with your users. 
+GPT Store Plus aims to provide everything you need for finding powerful GPTs, building and managing GPTs, promoting GPTs and engaging with your users. 
 
 
 ## Find GPTs
