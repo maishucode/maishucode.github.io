@@ -1,4 +1,7 @@
-# GPT Store Plus - one stop shop for building and managing your GPTS
+# GPT Store Plus
+
+GPT Store Plus is aim to provide everything you need to find greate GPTS, build and manage GPTs, promoting GPTs and engage with your users. 
+
 
 ## Find GPTs
 
